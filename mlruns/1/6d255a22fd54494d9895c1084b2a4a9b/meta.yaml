@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jeff/tmp/nb2py/mlruns/1/6d255a22fd54494d9895c1084b2a4a9b/artifacts
+end_time: 1649172686089
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6d255a22fd54494d9895c1084b2a4a9b
+run_uuid: 6d255a22fd54494d9895c1084b2a4a9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649172573106
+status: 3
+tags: []
+user_id: jeff

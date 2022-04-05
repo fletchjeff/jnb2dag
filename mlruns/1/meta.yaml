@@ -1,0 +1,4 @@
+artifact_location: file:///home/jeff/tmp/nb2py/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: test_notebook
